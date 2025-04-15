@@ -4,6 +4,16 @@ SAP NetWeaver ABAP Developer Edition in Docker.
 
 The Dockerfile works for the NW750 and NW751.
 
+## Credit to the following people for the contributions to this project:
+
+Tobias Hofmann
+
+Nabi Zamani
+
+Gregor Wolf
+
+Brandon Caulfield
+
 # Installation
 
 A detailed blog on how to get this image and container up and running can be found on my blog: [DOCKERFILE FOR SAP NETWEAVER ABAP 7.5X DEVELOPER EDITION](https://www.itsfullofstars.de/2017/09/dockerfile-for-sap-netweaver-abap-7-5x-developer-edition/)
