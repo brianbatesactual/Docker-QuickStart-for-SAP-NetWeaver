@@ -1,4 +1,4 @@
-# sap-nw-abap-docker
+# Docker QuickStart for SAP NetWeaver ABAP 7.51 Dev
 
 SAP NetWeaver ABAP Developer Edition in Docker.
 
